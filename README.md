@@ -15,7 +15,17 @@ Duygu analizi, bir metnin duygusal içeriğini belirlemeye yönelik bir yöntemd
 
 2.Python yüklü olduğundan emin olun.
 
-3.Gerekli kütüphaneleri indirmek için terminalde sırasıyla komutları çalıştırın: pip install tweepy, pip install pandas, pip install matplotlib, pip install textblob, pip install python-dotenv.
+3.Gerekli kütüphaneleri indirmek için terminalde sırasıyla komutları çalıştırın:
+
+pip install tweepy
+
+pip install pandas
+
+pip install matplotlib
+
+pip install textblob
+
+pip install python-dotenv
 
 4.X API'sine erişim sağlamak için bir X geliştirici hesabınızın olması gerekir. X Developers sayfasına giderek bir uygulama oluşturun ve Bearer Token'ınızı alın.
 
